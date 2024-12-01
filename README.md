@@ -31,7 +31,7 @@
 ```bash
 $ yarn install
 ```
-## Add env file
+# Add env file
 
 # Database Configuration
 ```bash
