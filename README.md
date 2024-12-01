@@ -31,9 +31,9 @@
 ```bash
 $ yarn install
 ```
-# Add env file
 
-# Database Configuration
+
+# Add env file 
 ```bash
 DB_HOST=localhost
 DB_PORT=3306
