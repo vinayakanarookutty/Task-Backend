@@ -34,12 +34,13 @@ $ yarn install
 ## Add env file
 
 # Database Configuration
+```bash
 DB_HOST=localhost
 DB_PORT=3306
 DB_USERNAME=root
 DB_PASSWORD=yourpassword
 DB_DATABASE=your databasename
-
+```
 ## Compile and run the project
 
 ```bash
